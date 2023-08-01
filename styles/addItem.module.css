@@ -1,0 +1,35 @@
+.uploadBox {
+	border: 1px solid #e2e8f0;
+	border-radius: 8px;
+	height: 200px;
+	width: 200px;
+	overflow: hidden;
+}
+
+.uploadBtn {
+	width: 100%;
+	height: 200px;
+}
+
+.pricingBox {
+	border: 1px solid #ce0078;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 6px;
+}
+/* 
+.sigleImage {
+	width:100%;
+	height: 100%;
+} */
+
+.imageBox {
+	position: relative;
+}
+
+.editIcon:hover {
+	color: #ce0078;
+}
+
+.deleteIcon:hover {
+	color: #ce0078;
+}

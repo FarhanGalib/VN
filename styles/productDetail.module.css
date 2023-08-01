@@ -1,0 +1,25 @@
+.actionBox{
+    border: 1px solid #d9d9d9;
+    border-radius: 6px;
+}
+.datePicker{
+    background-color: #fff;
+}
+.descriptionCollapsed{
+    height:220px;
+    overflow: hidden;
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+    -webkit-mask-size: 100%;
+    -webkit-mask-repeat: no-repeat;
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+    mask-size: 100%;
+    mask-repeat: no-repeat;
+}
+
+.descriptionOpen{
+    height: auto;
+}
+.descriptionButtonCollapsed{
+    position: relative;
+    top: -35px;
+}

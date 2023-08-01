@@ -1,0 +1,19 @@
+.profileBox{
+    border: 1px solid #E2E8F0;
+}
+
+.uploadBox{
+    border: 1px solid #E2E8F0;
+    border-radius: 8px;
+    height: 200px;
+    width: 200px;
+}
+
+.uploadBtn{
+    width:100%;
+    height: 200px;
+}
+
+.uploadInput{
+    color: red;
+}

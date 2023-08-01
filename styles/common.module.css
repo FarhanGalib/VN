@@ -1,0 +1,9 @@
+.tableHeader{
+    color: #7C7C7C !important;
+    text-transform: capitalize !important;
+    border-bottom: 1px solid #7C7C7C;
+}
+
+.tableBodyTextCorlor{
+    color: #323232;
+}

@@ -1,0 +1,31 @@
+.imageBox {
+	position: absolute;
+	top: -80px;
+	border-radius: 10px;
+}
+
+@media only screen and (max-width: 420px) {
+	.imageBox {
+		top: -65px;
+		left: 10%;
+		border-radius: 10px;
+	}
+}
+
+.descriptionCollapsed {
+	height: 100px;
+	overflow: hidden;
+}
+
+.descriptionOpen {
+	height: auto;
+}
+
+.imageBox:hover .profileChangeImage {
+	display: block;
+}
+.profileChangeImage {
+	opacity: 0.8!important;
+	/* width: 150px;
+	height: 120px; */
+}

@@ -83,7 +83,7 @@ const App = (props) => {
 				<meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
 				<meta name="description" content="Boilareplate" />
 				<meta name="keywords" content="insurance" />
-				<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
+				<meta httpEquiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
 				<title>Varanin</title>
 			</Head>
 			<ViewPort {...props} />
